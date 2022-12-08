@@ -1,6 +1,7 @@
 *{
 margin: 0%;
 font-family: Arial, Helvetica, sans-serif;
+
 }
 
 .flex-header{
@@ -13,4 +14,9 @@ font-family: Arial, Helvetica, sans-serif;
 header{
     background-color: black;
 
+}
+
+.imgperfil{
+    margin-top: 15px;
+    margin-bottom:15px ;
 }
