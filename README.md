@@ -11,7 +11,8 @@ Passo3: Agora basta ir no git comitar e depois "Push origin"
 
 O código foi alterado! Agora é o 5 desafio do 1 módulo do curso de html!
 
-Opa estou de volta! Subindo mais uma atualização para o github
+Opa estou de volta! Subindo mais uma atualização para o githubgora 
+Agora mandando do github para a máquina
 
 
  
